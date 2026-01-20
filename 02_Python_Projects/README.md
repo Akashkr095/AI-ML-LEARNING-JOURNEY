@@ -1,1 +1,1 @@
-Mini Project 1
+Projects - Practical Learning
