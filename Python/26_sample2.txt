@@ -1,0 +1,4 @@
+This ia a demo file
+to store some word
+for Python activity
+and coding practice.
